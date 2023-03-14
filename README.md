@@ -1,14 +1,13 @@
 # Presentación
 
-Hola, me llamo Adrian. Me gusta el helado de pistacho y no me gustan la aceitunas
-
 
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Adrian Perez
 
 Descripción
+Hola, me llamo Adrian. Me gusta el helado de pistacho y no me gustan la aceitunas
 
 Foto de mi persona:
 
